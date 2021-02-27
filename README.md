@@ -14,7 +14,7 @@ topology.__
 <br>
 
 
-#### 🔭 Right now
+### 🔭 Right now
 
 I’m working on a long-term research project, designing a different type of
 programming language. It’s not _your-favourite-language-but-with-a-twist_, and
@@ -28,7 +28,7 @@ more pleasant for the professional developers.
 <br>
 
 
-#### 👷 Work
+### 👷 Work
 
 I’m open to opportunities to work with kind and compassionate folk on fun
 problems, preferably in __Haskell__, or __Elm__, or similar.
@@ -47,7 +47,7 @@ A few ground rules, though:
 <br>
 
 
-#### 👐 Open source
+### 👐 Open source
 
 I try to post my projects on GitHub with liberal licenses.
 
@@ -77,7 +77,7 @@ addons](https://emberobserver.com/lists/top-addons).
 <br>
 
 
-#### 🎓 Education
+### 🎓 Education
 
 ##### MSc Applied Statistics, University of Oxford, 2016
 
