@@ -1,17 +1,23 @@
-<img
+<div align="center">
+  <img
   width="33%"
   alt="Me, smiling awkwardly, on a row boat in the middle of a breathtaking
   mountain lake."
   src="images/imonaboat.gif">
 
+  <h3>Hey there, internet voyager! 👋</h3>
+  <p>
+    <b>
+      I’m Sander ( <i>he/him</i> ) — a programmer and trained data scientist, <br>
+      poking at the language design and user interface dragons <br>
+      with the sticks of category theory and topology.
+    </b>
+  </p>
 
-### Hey there, internet traveller! 👋
-
-__I’m Sander ( _he/him_ ) — a programmer and trained data scientist, interested
-in programming language design, user interfaces, category theory, and algebraic
-topology.__
-
-<br>
+  <br>
+  <br>
+  <br>
+</div>
 
 
 ### 🔭 Right now
