@@ -1,26 +1,21 @@
-<div align="center">
-  <img
-  width="33%"
-  alt="Me, smiling awkwardly, on a row boat in the middle of a breathtaking
-  mountain lake."
-  src="images/imonaboat.gif">
+<img
+  width="100%"
+  alt="Don’t panic."
+  src="images/dont-panic-wide-rounded.png">
 
-  <h3>Hey there, internet voyager! 👋</h3>
-  <p>
-    <b>
-      I’m Sander ( <i>he/him</i> ) — a programmer and trained data scientist, <br>
-      poking at the language design and user interface dragons <br>
-      with the sticks of category theory and topology.
-    </b>
-  </p>
-
-  <br>
-  <br>
-  <br>
-</div>
+<br><br><br>
 
 
-### 🔭 Right now
+## Hey there, internet voyager! 👋
+
+I’m Sander ( _he / him_ ) — a programmer and trained data scientist, <br>
+poking at the language design and user interface dragons <br>
+with the sticks of category theory and topology.
+
+<br><br><br>
+
+
+## 🔭 Right now
 
 I’m working on a long-term research project, designing a different type of
 programming language. It’s not _your-favourite-language-but-with-a-twist_, and
@@ -31,15 +26,15 @@ I’d like to make computer programming more accessible and friendly, so that _y
 too can code_. In the meantime, maybe we can make programming safer and a bit
 more pleasant for the professional developers.
 
-<br>
+<br><br>
 
 
-### 👷 Work
+## 👷 Work
 
 I’m open to opportunities to work with kind and compassionate folk on fun
-problems, preferably in __Haskell__, or __Elm__, or similar.
+problems, preferably in __Haskell__, or __Elm__, or something similar.
 
-Remote ( GMT +3 ) or relocation to Deutschland.
+Remote ( I’m on GMT +3 ) or relocation to Deutschland.
 
 A few ground rules, though:
 
@@ -50,10 +45,10 @@ A few ground rules, though:
   especially on a whiteboard. I realise that hiring people is hard, but this is
   not the way.
 
-<br>
+<br><br>
 
 
-### 👐 Open source
+## 👐 Open source
 
 I try to post my projects on GitHub with liberal licenses.
 
@@ -80,12 +75,12 @@ probably the most, if not the only, pleasant way of working with Google Maps,
 and is consistently in the [Top #100 of Ember
 addons](https://emberobserver.com/lists/top-addons).
 
-<br>
+<br><br>
 
 
-### 🎓 Education
+## 🎓 Education
 
-##### MSc Applied Statistics, University of Oxford, 2016
+#### MSc Applied Statistics, University of Oxford, 2016
 
 What’s “Applied Statistics”? It’s statistical theory, the mathematics of
 uncertainty, applied to data: from data visualisation and linear regression, all
