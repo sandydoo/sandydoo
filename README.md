@@ -3,7 +3,7 @@
   alt="Don’t panic."
   src="images/dont-panic-wide-rounded.png">
 
-<br><br><br>
+<br>
 
 
 ## Hey there, internet voyager! 👋
@@ -12,7 +12,7 @@ I’m Sander ( _he / him_ ) — a programmer and trained data scientist, <br>
 poking at the language design and user interface dragons <br>
 with the sticks of category theory and topology.
 
-<br><br><br>
+<br>
 
 
 ## 🔭 Right now
@@ -26,13 +26,13 @@ I’d like to make computer programming more accessible and friendly, so that _y
 too can code_. In the meantime, maybe we can make programming safer and a bit
 more pleasant for the professional developers.
 
-<br><br>
+<br>
 
 
 ## 👷 Work
 
 I’m open to opportunities to work with kind and compassionate folk on fun
-problems, preferably in __Haskell__, or __Elm__, or something similar.
+problems, preferably in __Haskell__, __Elm__, or something similar.
 
 Remote ( I’m on GMT +3 ) or relocation to Deutschland.
 
@@ -45,10 +45,17 @@ A few ground rules, though:
   especially on a whiteboard. I realise that hiring people is hard, but this is
   not the way.
 
-<br><br>
+<br>
 
 
 ## 👐 Open source
+
+> Find any of my projects useful? Consider leaving a donation!
+>
+> [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8242XD)
+>
+> Thank you! 🙏🙏🙏\
+> — @sandydoo
 
 I try to post my projects on GitHub with liberal licenses.
 
@@ -68,14 +75,14 @@ Some of my recent projects:
   A utility to generate Wireguard configurations for the Mullvad VPN service
   written in Haskell.
 
-I still maintain
-[sandydoo/ember-google-maps](https://github.com/sandydoo/ember-google-maps) from
-my days as an [Ember.js](https://github.com/emberjs/ember.js) developer. It’s
-probably the most, if not the only, pleasant way of working with Google Maps,
-and is consistently in the [Top #100 of Ember
-addons](https://emberobserver.com/lists/top-addons).
+- [sandydoo/ember-google-maps](https://github.com/sandydoo/ember-google-maps)
 
-<br><br>
+  I still maintain this addon from this my days as an [Ember.js](https://github.com/emberjs/ember.js) developer.
+  It’s arguably the most pleasant way of working with Google Maps,
+  and is consistently in the
+  [Top #100 of Ember addons](https://emberobserver.com/lists/top-addons).
+
+<br>
 
 
 ## 🎓 Education
