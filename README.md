@@ -6,13 +6,11 @@
 <br>
 
 
-## Hey there, internet voyager! 👋
+## Hi there! 👋
 
-I’m Sander ( _he / him_ ) — a programmer and trained data scientist, <br>
-poking at the language design and user interface dragons <br>
+I’m Sander ( _he / him_ ) — a programmer and trained data scientist,
+poking at the language design and user interface dragons
 with the sticks of category theory and topology.
-
-<br>
 
 
 ## 🔭 Right now
@@ -26,26 +24,22 @@ I’d like to make computer programming more accessible and friendly, so that _y
 too can code_. In the meantime, maybe we can make programming safer and a bit
 more pleasant for the professional developers.
 
-<br>
-
 
 ## 👷 Work
 
-I’m open to opportunities to work with kind and compassionate folk on fun
-problems, preferably in __Haskell__, __Elm__, or something similar.
+You can hire me! I enjoy working with kind and compassionate folk on all sorts of
+problems. My favourite languages are __Haskell__, __Elm__, or anything similarly typed and functional.
 
-Remote ( I’m on GMT +3 ) or relocation to Deutschland.
+Remote ( I’m on GMT +3 ) or relocation to Deutschland / EU.
 
 A few ground rules, though:
 
 - __Do no evil.__ Is your business exploiting, manipulating, or hurting people?
   No, thanks. Same thing goes for the environment.
 
-- __Riddle me this.__ I’m not interested in solving brainteasers on the spot —
-  especially on a whiteboard. I realise that hiring people is hard, but this is
-  not the way.
-
-<br>
+- __Riddle me this.__ I’m not interested in solving leetcode brainteasers on the spot —
+  especially on a whiteboard. I realise that hiring people is hard — I do, but this is
+  not the way. Take a look at my PRs and commits to see the kind of work you can expect from me.
 
 
 ## 👐 Open source
@@ -81,8 +75,6 @@ Some of my recent projects:
   It’s arguably the most pleasant way of working with Google Maps,
   and is consistently in the
   [Top #100 of Ember addons](https://emberobserver.com/lists/top-addons).
-
-<br>
 
 
 ## 🎓 Education
