@@ -55,6 +55,10 @@ I try to post my projects on GitHub with liberal licenses.
 
 Some of my recent projects:
 
+- [sandydoo/flux](https://github.com/sandydoo/flux/)
+
+  An ode to the macOS Drift screensaver that runs in the browser. Built on WebGL2 and WebAssembly, and written in Rust.
+
 - [sandydoo/PolarClockElm](https://github.com/sandydoo/PolarClockElm)
 
   A colourful animated clock in polar coordinates built in Elm. Complex animated
