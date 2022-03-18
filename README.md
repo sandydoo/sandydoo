@@ -1,85 +1,68 @@
-<img
-  width="100%"
-  alt="Don’t panic."
-  src="images/dont-panic-wide-rounded.png">
-
-<br>
-
-
 ## Hi there! 👋
 
-I’m Sander ( _he / him_ ) — a programmer and trained data scientist,
-poking at the language design and user interface dragons
-with the sticks of category theory and topology.
+I’m Sander (_he / him_) — a freelance software engineer and trained data scientist.
+Find out what I’m working on – [follow my tweets!](https://twitter.com/sandy_doo/)
 
+## 👀 I’m looking for permanent work!
 
-## 🔭 Right now
+#### You can hire me!
 
-I’m working on a long-term research project, designing a different type of
-programming language. It’s not _your-favourite-language-but-with-a-twist_, and
-it’s not a _connect-boxes-with-wires_ thing. Behind the scenes, it’s based on
-shapes, patterns, types, categories, and proofs.
+I’m looking to join a team of kind and compassionate people who take pride in what they do and strive to leave things a little better than the way they found them. I have a knack for tacking gnarly problems, often way outside of my comfort zone, and I strongly value code maintainability and safety, through static typing and abundant testing.
 
-I’d like to make computer programming more accessible and friendly, so that _you
-too can code_. In the meantime, maybe we can make programming safer and a bit
-more pleasant for the professional developers.
+#### What’s your tech stack?
 
+My favourite languages these days are __Haskell, Elm, Rust, or anything similarly typed and functional__ (see the projects below), but I also know way too much about browsers and __JavaScript__, and have previously worked with __Python__ and __Ruby__.
 
-## 👷 Work
+__Nix__ is my preferred way to manage dependencies and build environments on Linux and MacOS. I’m familiar with most of the cloud offerings, i.e. AWS, and what it takes to set up and secure such services.
 
-You can hire me! I enjoy working with kind and compassionate folk on all sorts of
-problems. My favourite languages are __Haskell__, __Elm__, or anything similarly typed and functional.
+#### What are your interests?
 
-Remote ( I’m on GMT +3 ) or relocation to Deutschland / EU.
+Compilers; programming language design, particularly UX and non text-based languages; category theory, especially Voedodsky’s homotopy theory.
+Lately, I’ve been enjoying digging into low-level graphics APIs.
+
+#### What else should we know?
+
+I’m a __native English speaker__, fluent in Russian, and can order food in German and Italian.
+
+I currently __work remotely (UTC +4)__, but I’m looking to __relocate to Deutschland / EU.__
 
 A few ground rules, though:
 
 - __Do no evil.__ Is your business exploiting, manipulating, or hurting people?
   No, thanks. Same thing goes for the environment.
 
-- __Riddle me this.__ I’m not interested in solving leetcode brainteasers on the spot —
-  especially on a whiteboard. I realise that hiring people is hard — I do, but this is
-  not the way. Take a look at my PRs and commits to see the kind of work you can expect from me.
+- __Riddle me this.__ If your hiring process involves solving copy-pasted brainteasers under duress that are entirely unrepresentative of an average day’s work – please don’t message me!
+
+
+#### How do we contact you?
+
+email: [hey@sandydoo.me](mailto:hey@sandydoo.me)
+
+Twitter: [@sandy_doo](https://twitter.com/sandy_doo)
 
 
 ## 👐 Open source
 
-> Find any of my projects useful? Consider leaving a donation!
+> Enjoy some of my work? Consider leaving a donation!
 >
 > [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8242XD)
 >
-> Thank you! 🙏🙏🙏\
-> — @sandydoo
+> Thank you! 🙏🙏🙏
 
-I try to post my projects on GitHub with liberal licenses.
+#### [![Flux](https://github.com/sandydoo/gif-storage/blob/main/flux/social-header-2022-02-03.gif)](https://github.com/sandydoo/flux)
+An ode to the macOS Drift screensaver that runs in the browser. Built on WebGL2 and WebAssembly, and written in Rust.
 
-Some of my recent projects:
+#### [PolarClockElm](https://github.com/sandydoo/PolarClockElm)
+A colourful animated clock in polar coordinates built in Elm. Complex animated
+SVG paths and colour interpolation galore.
 
-- [sandydoo/flux](https://github.com/sandydoo/flux/)
+#### [CubehelixExplained](https://github.com/sandydoo/CubehelixExplained)
+A write-up of the mathematics behind the “cubehelix” colour space.
 
-  An ode to the macOS Drift screensaver that runs in the browser. Built on WebGL2 and WebAssembly, and written in Rust.
-
-- [sandydoo/PolarClockElm](https://github.com/sandydoo/PolarClockElm)
-
-  A colourful animated clock in polar coordinates built in Elm. Complex animated
-  SVG paths and colour interpolation galore.
-
-- [sandydoo/CubehelixExplained](https://github.com/sandydoo/CubehelixExplained)
-
-  A write-up of the mathematics behind the “cubehelix” colour space.
-
-- [sandydoo/MullvadConfigs](https://github.com/sandydoo/MullvadConfigs)
-
-  A utility to generate Wireguard configurations for the Mullvad VPN service
-  written in Haskell.
-
-- [sandydoo/ember-google-maps](https://github.com/sandydoo/ember-google-maps)
-
-  I still maintain this addon from this my days as an [Ember.js](https://github.com/emberjs/ember.js) developer.
-  It’s arguably the most pleasant way of working with Google Maps,
-  and is consistently in the
-  [Top #100 of Ember addons](https://emberobserver.com/lists/top-addons).
-
+#### [Ember Google Maps](https://github.com/sandydoo/ember-google-maps)
+I still maintain this addon from my days as an [Ember.js](https://github.com/emberjs/ember.js) developer.
+It’s arguably the most pleasant way of working with Google Maps,
+and is consistently in the [Top \#50 of Ember addons](https://emberobserver.com/lists/top-addons).
 
 ## 🎓 Education
 
