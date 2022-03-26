@@ -1,11 +1,12 @@
 ## Hi there! 👋
 
-I’m Sander (_he / him_) — a freelance software engineer and trained data scientist.
-Find out what I’m working on – [follow my tweets!](https://twitter.com/sandy_doo/)
+I’m Sander (_he / him_) — a software engineer and trained data scientist.
+
+Find out what I’m working on – [follow me on Twitter!](https://twitter.com/sandy_doo/)
 
 ## 👀 I’m looking for permanent work!
 
-#### You can hire me!
+#### You can hire me! [My CV is available here.](https://assets.sandydoo.me/cv/2022.pdf)
 
 I’m looking to join a team of kind and compassionate people who take pride in what they do and strive to leave things a little better than the way they found them. I have a knack for tacking gnarly problems, often way outside of my comfort zone, and I strongly value code maintainability and safety, through static typing and abundant testing.
 
@@ -26,12 +27,12 @@ I’m a __native English speaker__, fluent in Russian, and can order food in Ger
 
 I currently __work remotely (UTC +4)__, but I’m looking to __relocate to Deutschland / EU.__
 
-A few ground rules, though:
+My ground rules are:
 
 - __Do no evil.__ Is your business exploiting, manipulating, or hurting people?
   No, thanks. Same thing goes for the environment.
 
-- __Riddle me this.__ If your hiring process involves solving copy-pasted brainteasers under duress that are entirely unrepresentative of an average day’s work – please don’t message me!
+- __Riddle me this.__ Is your hiring process a series of copy-pasted brainteasers that are entirely unrepresentative of an average day’s work? Also, no thanks!
 
 
 #### How do we contact you?
