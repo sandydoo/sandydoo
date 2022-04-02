@@ -6,7 +6,7 @@ Find out what I’m working on – [follow me on Twitter!](https://twitter.com/s
 
 ## 👀 I’m looking for permanent work!
 
-#### You can hire me! [My CV is available here.](https://assets.sandydoo.me/cv/2022.pdf)
+#### You can hire me! [My CV is available here.](https://github.com/sandydoo/resume/releases/latest/download/cv.pdf)
 
 I’m looking to join a team of kind and compassionate people who take pride in what they do and strive to leave things a little better than the way they found them. I have a knack for tacking gnarly problems, often way outside of my comfort zone, and I strongly value code maintainability and safety, through static typing and abundant testing.
 
