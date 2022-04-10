@@ -44,7 +44,7 @@ Twitter: [@sandy_doo](https://twitter.com/sandy_doo)
 
 ## 👐 Open source
 
-> Enjoy some of my work? Consider leaving a donation!
+> Enjoy my work? Consider leaving a donation!
 >
 > [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8242XD)
 >
