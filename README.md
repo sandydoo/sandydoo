@@ -51,7 +51,9 @@ Twitter: [@sandy_doo](https://twitter.com/sandy_doo)
 > Thank you! 🙏🙏🙏
 
 #### [![Flux](https://github.com/sandydoo/gif-storage/blob/main/flux/social-header-2022-02-03.gif)](https://github.com/sandydoo/flux)
-An ode to the macOS Drift screensaver that runs in the browser. Built on WebGL2 and WebAssembly, and written in Rust.
+An ode to the macOS Drift screensaver that runs in the browser.
+Built on WebGL2 and WebAssembly, and written in Rust.
+[I’m also working on native screensaver versions for MacOS, Windows, and Linux.](https://github.com/sandydoo/flux-screensavers)
 
 #### [PolarClockElm](https://github.com/sandydoo/PolarClockElm)
 A colourful animated clock in polar coordinates built in Elm. Complex animated
