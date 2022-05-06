@@ -1,12 +1,11 @@
 ## Hi there! 👋
-
 I’m Sander (_he / him_) — a software engineer and trained data scientist.
 
 Find out what I’m working on – [follow me on Twitter!](https://twitter.com/sandy_doo/)
 
-## 👀 I’m looking for permanent work!
+## 👀 You can hire me!
 
-#### You can hire me! [My CV is available here.](https://github.com/sandydoo/resume/releases/latest/download/cv.pdf)
+#### [Here’s a printer-friendly CV](https://github.com/sandydoo/resume/releases/latest/download/cv.pdf)
 
 I’m looking to join a team of kind and compassionate people who take pride in what they do and strive to leave things a little better than the way they found them. I have a knack for tacking gnarly problems, often way outside of my comfort zone, and I strongly value code maintainability and safety, through static typing and abundant testing.
 
@@ -14,7 +13,7 @@ I’m looking to join a team of kind and compassionate people who take pride in 
 
 My favourite languages these days are __Haskell, Elm, Rust, or anything similarly typed and functional__ (see the projects below), but I also know way too much about browsers and __JavaScript__, and have previously worked with __Python__ and __Ruby__.
 
-__Nix__ is my preferred way to manage dependencies and build environments on Linux and MacOS. I’m familiar with most of the cloud offerings, i.e. AWS, and what it takes to set up and secure such services.
+__Nix__ is my preferred way to manage dependencies and build environments on Linux and MacOS.
 
 #### What are your interests?
 
@@ -25,7 +24,7 @@ Lately, I’ve been enjoying digging into low-level graphics APIs.
 
 I’m a __native English speaker__, fluent in Russian, and can order food in German and Italian.
 
-I currently __work remotely (UTC +4)__, but I’m looking to __relocate to Deutschland / EU.__
+I currently __work remotely (UTC +4)__, but I’m looking to __relocate to Germany / EU.__
 
 My ground rules are:
 
@@ -37,9 +36,9 @@ My ground rules are:
 
 #### How do we contact you?
 
-email: [hey@sandydoo.me](mailto:hey@sandydoo.me)
+email → [hey@sandydoo.me](mailto:hey@sandydoo.me)
 
-Twitter: [@sandy_doo](https://twitter.com/sandy_doo)
+Twitter → [@sandy_doo](https://twitter.com/sandy_doo)
 
 
 ## 👐 Open source
