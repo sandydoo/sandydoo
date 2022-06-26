@@ -1,61 +1,23 @@
-## Hi there! 👋
-I’m Sander (_he / him_) — a software engineer and trained data scientist.
+## 👋 Hi there!
+I’m Sander (_he / him_) — a software engineer and trained data scientist. I make random things and post them on the internet. Some of them are cool.
 
-Find out what I’m working on – [follow me on Twitter!](https://twitter.com/sandy_doo/)
+🞻 GitHub [/sandydoo](https://github.com/sandydoo/) \
+🞻 Twitter [@sandy_doo](https://twitter.com/sandy_doo/) \
+🞻 LinkedIn [/in/sandydoo](www.linkedin.com/in/sandydoo/) \
+🞻 Email [hey@sandydoo.me](mailto://hey@sandydoo.me) \
+🞻 Web [sandydoo.me](https://sandydoo.me/) \
+🞻 Shop [sandydoo.gumroad](https://sandydoo.gumroad.com/)
 
-## 👀 You can hire me!
+## ✨ Things I’ve made
 
-#### [Here’s a printer-friendly CV](https://github.com/sandydoo/resume/releases/latest/download/cv.pdf)
+#### [Flux](https://github.com/sandydoo/flux)
+An open-source tribute to the macOS Drift screensaver that runs in the browser.
 
-I’m looking to join a team of kind and compassionate people who take pride in what they do and strive to leave things a little better than the way they found them. I have a knack for tacking gnarly problems, often way outside of my comfort zone, and I strongly value code maintainability and safety, through static typing and abundant testing.
-
-#### What’s your tech stack?
-
-My favourite languages these days are __Haskell, Elm, Rust, or anything similarly typed and functional__ (see the projects below), but I also know way too much about browsers and __JavaScript__, and have previously worked with __Python__ and __Ruby__.
-
-__Nix__ is my preferred way to manage dependencies and build environments on Linux and MacOS.
-
-#### What are your interests?
-
-Compilers; programming language design, particularly UX and non text-based languages; category theory, especially Voedodsky’s homotopy theory.
-Lately, I’ve been enjoying digging into low-level graphics APIs.
-
-#### What else should we know?
-
-I’m a __native English speaker__, fluent in Russian, and can order food in German and Italian.
-
-I currently __work remotely (UTC +4)__, but I’m looking to __relocate to Germany / EU.__
-
-My ground rules are:
-
-- __Do no evil.__ Is your business exploiting, manipulating, or hurting people?
-  No, thanks. Same thing goes for the environment.
-
-- __Riddle me this.__ Is your hiring process a series of copy-pasted brainteasers that are entirely unrepresentative of an average day’s work? Also, no thanks!
-
-
-#### How do we contact you?
-
-email → [hey@sandydoo.me](mailto:hey@sandydoo.me)
-
-Twitter → [@sandy_doo](https://twitter.com/sandy_doo)
-
-
-## 👐 Open source
-
-> Enjoy my work? Consider leaving a donation!
->
-> [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8242XD)
->
-> Thank you! 🙏🙏🙏
-
-#### [![Flux](https://github.com/sandydoo/gif-storage/blob/main/flux/social-header-2022-02-03.gif)](https://github.com/sandydoo/flux)
-An ode to the macOS Drift screensaver that runs in the browser.
-Built on WebGL2 and WebAssembly, and written in Rust.
-[I’m also working on native screensaver versions for MacOS, Windows, and Linux.](https://github.com/sandydoo/flux-screensavers)
+Flux is a cross-platform GPU-based fluid simulation written in Rust. It features an interactive web UI built with Elm.
+I’m also working on [native screensaver versions](https://github.com/sandydoo/flux-screensavers) for macOS, Windows, and Linux.
 
 #### [PolarClockElm](https://github.com/sandydoo/PolarClockElm)
-A colourful animated clock in polar coordinates built in Elm. Complex animated
+A colourful animated clock in polar coordinates built with Elm. Complex animated
 SVG paths and colour interpolation galore.
 
 #### [CubehelixExplained](https://github.com/sandydoo/CubehelixExplained)
@@ -65,15 +27,6 @@ A write-up of the mathematics behind the “cubehelix” colour space.
 I still maintain this addon from my days as an [Ember.js](https://github.com/emberjs/ember.js) developer.
 It’s arguably the most pleasant way of working with Google Maps,
 and is consistently in the [Top \#50 of Ember addons](https://emberobserver.com/lists/top-addons).
-
-## 🎓 Education
-
-#### MSc Applied Statistics, University of Oxford, 2016
-
-What’s “Applied Statistics”? It’s statistical theory, the mathematics of
-uncertainty, applied to data: from data visualisation and linear regression, all
-the way to computationally intensive Bayesian methods and machine learning.
-
 
 <!--
 
