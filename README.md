@@ -1,12 +1,12 @@
 ## 👋 Hi there!
 I’m Sander (_he / him_) — a software engineer and trained data scientist. I make random things and post them on the internet. Some of them are cool.
 
-🞻 GitHub [/sandydoo](https://github.com/sandydoo/) \
-🞻 Twitter [@sandy_doo](https://twitter.com/sandy_doo/) \
-🞻 LinkedIn [/in/sandydoo](www.linkedin.com/in/sandydoo/) \
-🞻 Email [hey@sandydoo.me](mailto://hey@sandydoo.me) \
-🞻 Web [sandydoo.me](https://sandydoo.me/) \
-🞻 Shop [sandydoo.gumroad](https://sandydoo.gumroad.com/)
+✳︎ GitHub [/sandydoo](https://github.com/sandydoo/) \
+✳︎ Twitter [@sandy_doo](https://twitter.com/sandy_doo/) \
+✳︎ LinkedIn [/in/sandydoo](www.linkedin.com/in/sandydoo/) \
+✳︎ Email [hey@sandydoo.me](mailto://hey@sandydoo.me) \
+✳︎ Web [sandydoo.me](https://sandydoo.me/) \
+✳︎ Shop [sandydoo.gumroad](https://sandydoo.gumroad.com/)
 
 ## ✨ Things I’ve made
 
