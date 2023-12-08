@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I’m Sander (_he / him_) — a software engineer and trained data scientist. I make random things and post them on the internet. Some of them are cool.
+I’m Sander (_he / him_) — a software engineer and trained data scientist. I make random things and post them on the internet. Some of them are, like, cool.
 
 ✳︎ GitHub [/sandydoo](https://github.com/sandydoo/) \
 ✳︎ Twitter [@sandy_doo](https://twitter.com/sandy_doo/) \
