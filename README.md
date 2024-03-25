@@ -12,9 +12,7 @@ I’m Sander (_he / him_) — a software engineer and trained data scientist. I 
 
 #### [Flux](https://github.com/sandydoo/flux)
 An open-source tribute to the macOS Drift screensaver that runs in the browser.
-
-Flux is a cross-platform GPU-based fluid simulation written in Rust. It features an interactive web UI built with Elm.
-I’m also working on [native screensaver versions](https://github.com/sandydoo/flux-screensavers) for macOS, Windows, and Linux.
+Flux is a cross-platform GPU-based fluid simulation written in Rust and features an interactive web UI built with Elm.
 
 #### [PolarClockElm](https://github.com/sandydoo/PolarClockElm)
 A colourful animated clock in polar coordinates built with Elm. Complex animated
