@@ -18,9 +18,6 @@ Flux is a cross-platform GPU-based fluid simulation written in Rust and features
 A colourful animated clock in polar coordinates built with Elm. Complex animated
 SVG paths and colour interpolation galore.
 
-#### [CubehelixExplained](https://github.com/sandydoo/CubehelixExplained)
-A write-up of the mathematics behind the “cubehelix” colour space.
-
 #### [Ember Google Maps](https://github.com/sandydoo/ember-google-maps)
 I still maintain this addon from my days as an [Ember.js](https://github.com/emberjs/ember.js) developer.
 It’s arguably the most pleasant way of working with Google Maps,
