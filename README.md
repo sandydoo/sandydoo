@@ -3,7 +3,7 @@ I’m Sander (_he / him_) — a software engineer and trained data scientist. I 
 
 → GitHub [/sandydoo](https://github.com/sandydoo/) \
 → X [@sandydoo](https://x.com/sandydoo/) \
-→ LinkedIn [/in/sandydoo](www.linkedin.com/in/sandydoo/) \
+→ LinkedIn [/in/sandydoo](https://www.linkedin.com/in/sandydoo/) \
 → Email [hey@sandydoo.me](mailto://hey@sandydoo.me) \
 → Web [sandydoo.me](https://sandydoo.me/) \
 → Shop [sandydoo.gumroad](https://sandydoo.gumroad.com/)
