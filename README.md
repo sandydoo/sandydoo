@@ -2,6 +2,7 @@
 I’m Sander (_he / him_) — a software engineer and trained data scientist. I make random things and post them on the internet. Some of them are, like, cool.
 
 → GitHub [/sandydoo](https://github.com/sandydoo/) \
+→ Bluesky [@sandydoo.me](https://bsky.app/profile/sandydoo.me) \
 → X [@sandydoo](https://x.com/sandydoo/) \
 → LinkedIn [/in/sandydoo](https://www.linkedin.com/in/sandydoo/) \
 → Email [hey@sandydoo.me](mailto://hey@sandydoo.me) \
